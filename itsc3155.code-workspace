@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../MachineLearning"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "itsc3155"
+	}
+}
